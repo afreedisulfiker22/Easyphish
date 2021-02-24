@@ -10,7 +10,7 @@ $apt install curl -y
 $apt install wget -y
 $apt install unzip -y
 $apt install git
-$git clone 
+$git clone https://github.com/afreedisulfiker22/Easyphish.git
 $cd Easyphish
 $unzip Easyphish.zip
 $cp -r Easyphish /$HOME/
